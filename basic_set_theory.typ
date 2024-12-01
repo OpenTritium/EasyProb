@@ -73,8 +73,8 @@ $ e_1,e_2,e_3,... $
   columns: 2,
   align: center,
   header(
-    [*符号*],
-    [*语义*],
+    [*表达式*],
+    [*描述*],
   ),
   [$A #sym.subset.eq B$], [$A$ 的每个元素都属于 $B$，与 $A #sym.supset.eq B$ 等价],
   [$A #sym.subset.neq B$], [$A$ 的每个元素都属于 $B$，但 $B$ 至少有一个元素不属于 $A$],
